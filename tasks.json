@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "title": "Buy milk",
+      "description": "Remember to buy milk from the store",
+      "dueDate": "2023-03-15"
+    },
+    {
+      "id": 2,
+      "title": "Walk the dog",
+      "description": "Take the dog for a 30-minute walk",
+      "dueDate": "2023-03-16"
+    }
+  ]
